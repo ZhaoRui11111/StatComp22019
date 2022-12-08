@@ -1,0 +1,16 @@
+Package: StatComp22019
+Type: Package
+Title: LDA model with Gibbs Sampling Methods for Topic Models
+Version: 1.0
+Date: 2022-12-08
+Author: Rui Zhao
+Maintainer: Rui Zhao <419327000@qq.com>
+Description: Implements latent Dirichlet allocation (LDA) with gibbs sampling methods and functions for visualization.
+License: GPL (>= 2)
+Imports: Rcpp (>= 1.0.9), microbenchmark, knitr, rmarkdown, jiebaR, lda, LDAvis, servr,tm,topicmodels
+Encoding: UTF-8
+RoxygenNote: 7.2.2
+VignetteBuilder: knitr
+LinkingTo: Rcpp, RcppEigen
+Depends: R (>= 2.10)
+LazyData: true

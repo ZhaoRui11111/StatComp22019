@@ -1,0 +1,11 @@
+doc
+Meta
+.Rproj.user
+src/*.o
+src/*.so
+src/*.dll
+<<<<<<< HEAD
+/doc/
+/Meta/
+=======
+>>>>>>> bc356e77f9d4b0a6f35c3d5df7de160ded6dbb62
